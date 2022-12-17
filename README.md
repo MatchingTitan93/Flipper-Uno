@@ -10,7 +10,7 @@ This is a personal project, posted on GitHub to make it available to those who n
 Please have mercy on me, I am not a programmer, but I try, so if you notice absurdities within the code do not discredit but try to help, thank you.
 
 ## What is this?
-this is a project to try to recreate the functions of Flipper Zero on Arduino, or at least its basic functions. The project is not Open Source because I would not know how to handle it, but if you would like to contribute by making changes or testing it on your own and leaving feedback, I would be incredibly pleased.
+this is a project to try to recreate the functions of Flipper Zero on Arduino, or at least its basic functions. If you would like to contribute by making changes or testing it on your own and leaving feedback, feel free to do it! I would be incredibly pleased.
 
 ## What i plan to include (in order of importance)(if it's marked, i already done it):
 - [x] Receive and send IR signals

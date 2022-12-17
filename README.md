@@ -1,6 +1,7 @@
 # Flipper-Uno
 Just wanted to recreate the Flipper Zero (https://flipperzero.one/) on Arduino, obviously done worse because I'm not as good as them.
-Check the releases page to download the latest version.
+
+Check the [releases](https://github.com/MatchingTitan93/Flipper-Uno/releases) page to download the latest version.
 
 ## DISCLAIMER:
 I do not want and do not claim in any way to discredit the work done by the folks at Flipper Zero. I don't want responsibility for any action done by anyone using the following codes, use anything ONLY on your own devices for fun or security testing, but never do it on others' devices without their explicit consent. 

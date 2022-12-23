@@ -15,11 +15,12 @@ this is a project to try to recreate the functions of Flipper Zero on Arduino, o
 ## What i plan to include (in order of importance)(if it's marked, i already done it):
 - [x] Receive and send IR signals
 - [ ] Store and read IR signals on an external SD for later usage
-- [ ] Improve the menu
+- [x] Improve the menu
 - [ ] Add a rechargable battery and a switch to turn it on and off
-- [ ] Sub 1GHz signals
 - [ ] WiFi signals
 - [ ] Bluetooth
+- [ ] Rubber Ducky
+- [ ] Sub 1GHz signals
 - [ ] NFC
 - [ ] Other
 
